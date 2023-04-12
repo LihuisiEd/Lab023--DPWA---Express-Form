@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "express": "^4.18.2",
+    "jquery": "^3.6.4",
+    "jsdom": "^21.1.1"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "lab03",
+  "version": "1.0.0",
+  "main": "server.js",
+  "devDependencies": {},
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
